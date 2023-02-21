@@ -1,0 +1,28 @@
+{
+  "name": "estudos",
+  "version": "1.0.0",
+  "description": "login page",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cizcou/desagio01.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JAVASCRIPT",
+    "REACT"
+  ],
+  "author": "Guilherme Costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cizcou/desagio01/issues"
+  },
+  "homepage": "https://github.com/cizcou/desagio01#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
